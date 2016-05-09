@@ -19,4 +19,4 @@ PS. All this machinery works on Ubuntu and MacOS, if you have compatibility issu
 
 [slides]: https://speakerdeck.com/raffo/python-flying-at-40-000-feet-part-1
 [revealjs]: https://github.com/hakimel/reveal.js
-[nbview]: https://github.com/raino01r/pydata_london_2016/blob/master/EOTJupyterTest/pydata_presentation.ipynb
+[nbview]: http://nbviewer.jupyter.org/github/raino01r/pydata_london_2016/blob/master/EOTJupyterTest/pydata_presentation.ipynb
