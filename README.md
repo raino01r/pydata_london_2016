@@ -16,3 +16,6 @@ To directly convert the notebook into slides and open in browser run
 (Notice that the `reveal.js` folder is taken from [here][revealjs] and it is needed to overcome the fact that jupyter sildes have locked scrolling. A more elegant method is for sure available: when I discover it, I'll update this repo.)
 
 PS. All this machinery works on Ubuntu and MacOS, if you have compatibility issue drop me a line.
+
+[slides]: https://speakerdeck.com/raffo/python-flying-at-40-000-feet-part-1
+[revealjs]: https://github.com/hakimel/reveal.js
