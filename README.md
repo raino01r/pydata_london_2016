@@ -6,6 +6,7 @@ This repo contains the presentation *Python flying at 40,000 feet* by Raffaele R
 The first part of the presentation is available [here][slides].
 
 The second part relies on the jupyter notebook in this repo. There are a number of ways to view it:
+  - [Online on my website][pydata_talk_raff]
   - View the whole notebook in [nbviewer][nbview] (however this will contain a number of cells with codes to support the actual slides);
   - View the slides in [nbviewer][nbview_slides], in this case you can't scroll down (see (*) below)
   - Clone the repo and get it locally.
@@ -26,3 +27,4 @@ PS. All this machinery works on Ubuntu and MacOS, if you have compatibility issu
 [revealjs]: https://github.com/hakimel/reveal.js
 [nbview]: http://nbviewer.jupyter.org/github/raino01r/pydata_london_2016/blob/master/EOTJupyterTest/pydata_presentation.ipynb
 [nbview_slides]: http://nbviewer.jupyter.org/format/slides/github/raino01r/pydata_london_2016/blob/master/EOTJupyterTest/pydata_presentation.ipynb#/
+[pydata_talk_raff]: http://raffo85h.github.io/pydata_presentation.slides.html#/
